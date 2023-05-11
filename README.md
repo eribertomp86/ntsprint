@@ -16,11 +16,8 @@
 <h2 class="code-line" data-line-start=17 data-line-end=18 ><a id="Installation_17"></a>Installation</h2>
 <p class="has-line-data" data-line-start="18" data-line-end="20">Clone the repository: git clone <a href="https://github.com/eribertomp86/ntsprint">https://github.com/eribertomp86/ntsprint</a><br>
 Install dependencies: npm install.</p>
-<p class="has-line-data" data-line-start="21" data-line-end="24">GitHub (<a href="https://github.com/eribertomp86/ntsprint">https://github.com/eribertomp86/ntsprint</a>)<br>
-GitHub - eribertomp86/ntsprint<br>
-Contribute to eribertomp86/ntsprint development by creating an account on GitHub.</p>
-<h2 class="code-line" data-line-start=25 data-line-end=26 ><a id="Especifications_25"></a>Especifications</h2>
+<h2 class="code-line" data-line-start=21 data-line-end=22 ><a id="Especifications_21"></a>Especifications</h2>
 <ul>
-<li class="has-line-data" data-line-start="26" data-line-end="27">Listen on port 2000</li>
-<li class="has-line-data" data-line-start="27" data-line-end="28">Use mysql as database</li>
+<li class="has-line-data" data-line-start="22" data-line-end="23">Listen on port 2000</li>
+<li class="has-line-data" data-line-start="23" data-line-end="24">Use mysql as database</li>
 </ul>
